@@ -1,3 +1,3 @@
 ## Hi there 👋
 Electrical Engineering Student at OSU
-Practicing Python and C++
+Practicing Python, C++, Verilog
